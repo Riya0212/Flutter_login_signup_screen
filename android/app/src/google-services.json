@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "393754045125",
+    "project_id": "pathshala-81f37",
+    "storage_bucket": "pathshala-81f37.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:393754045125:android:bb1f5fd4a95e2e33799eac",
+        "android_client_info": {
+          "package_name": "com.example.pathshala1_0"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "393754045125-h119kscifr515s6c65q72jlig4ggsg0v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.pathshala1_0",
+            "certificate_hash": "c7f96a34514de642275fbf9d1bf6c4bfeb1295c5"
+          }
+        },
+        {
+          "client_id": "393754045125-kkg0j4jogntgu5a767d3v2fjr98nse4d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgdMuDt-_n_2IeNOqoODoRRS2Fe4BUk-c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "393754045125-kkg0j4jogntgu5a767d3v2fjr98nse4d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
